@@ -1,12 +1,12 @@
 {
-  "name": "lab-carlo",
+  "name": "lab-james",
   "version": "1.0.0",
   "description": "lab 5",
   "main": "list-test.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Carlo",
+  "author": "james",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
